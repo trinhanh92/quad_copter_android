@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drone Controller</string>
+    <string name="SecretKey">drone_hung_hue@uit.edu.vn</string>
+    <string name="ServerAddressInfo">http://10.10.0.1/api/info</string>
+    <string name="ServerAddressMove">http://10.10.0.1/api/move</string>
+    <string name="google_key">AIzaSyBB1gT23Aj-I7U88tGH3gQnY_LR8CmsJZs</string>
+</resources>
